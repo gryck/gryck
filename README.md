@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @gryck
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning how to use GitHub
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me NullPointerException
+- 👀 I’m interested in 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
 
 Just hanging around.
 
